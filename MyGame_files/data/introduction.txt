@@ -1,0 +1,27 @@
+Being sick on vacation is no fun. So, you decide to stay inside today.
+It feels a little cold so you put some lighter fluid on the fire and set the bottle next to it. 
+Then you pull out your favorite textbook, "common sense for dummies", and climb in bed. 
+
+"... Water, like that found in common puddles, will extinguish a fire. ..."
+
+"No, that is not where I was."
+
+"... The human body may be thought of as pieces that make up a whole ...
+If a body segment is broken, any further damage to it damages the torso. When your torso is broken you die. ...
+Eating plants will restore certain kinds of health. ..."
+
+"Sounds really complex, I am glad I'm not a doctor."
+
+"... 
+Controls:
+up = w                     pick item = q, e                  save = F1    
+down = s                use item = Tab, r              open = F2
+left = a                   run = space bar                volume down = [
+right = d                                                                volume up = ]
+..."
+
+"It doesn't make any sense, but I better memorize it for the test."
+
+After some time you wake up to the sound of a loud bang! You run out of the cabin to find ...
+
+Press Enter to continue
